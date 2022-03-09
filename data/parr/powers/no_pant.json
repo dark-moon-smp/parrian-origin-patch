@@ -1,0 +1,10 @@
+{
+	"name":"YGOD's Rule",
+	"type":"origins:restrict_armor",
+	"legs": {
+        "type": "origins:armor_value",
+        "comparison": ">=",
+        "compare_to": 0
+    },
+	"loading_priority":1
+}
